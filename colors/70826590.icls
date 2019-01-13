@@ -1,0 +1,36 @@
+<scheme name="70826590" version="142" parent_scheme="Default">
+  <metaInfo>
+    <property name="created">2019-01-13T13:44:28</property>
+    <property name="ide">PyCharmCore</property>
+    <property name="ideVersion">2017.3.3.0.0</property>
+    <property name="modified">2019-01-13T14:06:13</property>
+    <property name="originalScheme">Default copy</property>
+  </metaInfo>
+  <colors>
+    <option name="CARET_ROW_COLOR" value="e6f5ff" />
+  </colors>
+  <attributes>
+    <option name="DEFAULT_CLASS_NAME">
+      <value>
+        <option name="FOREGROUND" value="30cacd" />
+        <option name="FONT_TYPE" value="1" />
+      </value>
+    </option>
+    <option name="DEFAULT_CLASS_REFERENCE">
+      <value>
+        <option name="FOREGROUND" value="30cacd" />
+      </value>
+    </option>
+    <option name="DEFAULT_FUNCTION_CALL">
+      <value>
+        <option name="FOREGROUND" value="982cb6" />
+      </value>
+    </option>
+    <option name="PY.CLASS_DEFINITION" baseAttributes="DEFAULT_CLASS_NAME" />
+    <option name="TEXT">
+      <value>
+        <option name="BACKGROUND" value="d8ebe5" />
+      </value>
+    </option>
+  </attributes>
+</scheme>
